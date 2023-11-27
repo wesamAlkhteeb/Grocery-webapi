@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "wnJIA4T8AhTHCsT1bGkp/kCx3aMT90z6z63Hv5YGgok=",
+  "Source": "Grocery.API",
+  "BasePath": "_content/Grocery.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Grocery.API\\wwwroot",
+      "Source": "Grocery.API",
+      "ContentRoot": "C:\\Users\\wesam\\source\\repos\\Grocery\\Grocery.API\\wwwroot\\",
+      "BasePath": "_content/Grocery.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\wesam\\source\\repos\\Grocery\\Grocery.API\\wwwroot\\images\\1.jpg",
+      "SourceId": "Grocery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wesam\\source\\repos\\Grocery\\Grocery.API\\wwwroot\\",
+      "BasePath": "_content/Grocery.API",
+      "RelativePath": "images/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpg"
+    }
+  ]
+}

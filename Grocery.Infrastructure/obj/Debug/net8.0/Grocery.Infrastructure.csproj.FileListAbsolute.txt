@@ -1,0 +1,17 @@
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\bin\Debug\net8.0\Grocery.Infrastructure.deps.json
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\bin\Debug\net8.0\Grocery.Infrastructure.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\bin\Debug\net8.0\Grocery.Infrastructure.pdb
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\obj\Debug\net8.0\Grocery.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\obj\Debug\net8.0\Grocery.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\obj\Debug\net8.0\Grocery.Infrastructure.AssemblyInfo.cs
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\obj\Debug\net8.0\Grocery.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\obj\Debug\net8.0\Grocery.Infrastructure.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\obj\Debug\net8.0\refint\Grocery.Infrastructure.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\obj\Debug\net8.0\Grocery.Infrastructure.pdb
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\obj\Debug\net8.0\ref\Grocery.Infrastructure.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\bin\Debug\net8.0\Grocery.Application.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\bin\Debug\net8.0\Grocery.Domain.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\bin\Debug\net8.0\Grocery.Application.pdb
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\bin\Debug\net8.0\Grocery.Domain.pdb
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\obj\Debug\net8.0\Grocery.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\wesam\source\repos\Grocery\Grocery.Infrastructure\obj\Debug\net8.0\Grocery.Infrastructure.csproj.CopyComplete

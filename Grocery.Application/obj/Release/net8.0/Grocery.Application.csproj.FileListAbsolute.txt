@@ -1,0 +1,15 @@
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\bin\Release\net8.0\Grocery.Application.deps.json
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\bin\Release\net8.0\Grocery.Application.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\bin\Release\net8.0\Grocery.Application.pdb
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\bin\Release\net8.0\Grocery.Domain.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\bin\Release\net8.0\Grocery.Domain.pdb
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\obj\Release\net8.0\Grocery.Application.csproj.AssemblyReference.cache
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\obj\Release\net8.0\Grocery.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\obj\Release\net8.0\Grocery.Application.AssemblyInfoInputs.cache
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\obj\Release\net8.0\Grocery.Application.AssemblyInfo.cs
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\obj\Release\net8.0\Grocery.Application.csproj.CoreCompileInputs.cache
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\obj\Release\net8.0\Grocery.Application.csproj.CopyComplete
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\obj\Release\net8.0\Grocery.Application.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\obj\Release\net8.0\refint\Grocery.Application.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\obj\Release\net8.0\Grocery.Application.pdb
+C:\Users\wesam\source\repos\Grocery\Grocery.Application\obj\Release\net8.0\ref\Grocery.Application.dll

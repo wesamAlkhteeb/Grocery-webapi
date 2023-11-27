@@ -1,0 +1,12 @@
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\bin\Debug\net8.0\Grocery.Domain.deps.json
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\bin\Debug\net8.0\Grocery.Domain.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\bin\Debug\net8.0\Grocery.Domain.pdb
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\obj\Debug\net8.0\Grocery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\obj\Debug\net8.0\Grocery.Domain.AssemblyInfoInputs.cache
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\obj\Debug\net8.0\Grocery.Domain.AssemblyInfo.cs
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\obj\Debug\net8.0\Grocery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\obj\Debug\net8.0\Grocery.Domain.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\obj\Debug\net8.0\refint\Grocery.Domain.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\obj\Debug\net8.0\Grocery.Domain.pdb
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\obj\Debug\net8.0\ref\Grocery.Domain.dll
+C:\Users\wesam\source\repos\Grocery\Grocery.Domain\obj\Debug\net8.0\Grocery.Domain.csproj.AssemblyReference.cache

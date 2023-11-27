@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\IIS\Grocery</_PublishTargetUrl>
+    <History>True|2023-11-23T08:32:31.5506769Z;True|2023-11-22T13:01:11.7838340+03:00;True|2023-11-22T12:59:45.0113158+03:00;True|2023-11-22T12:55:48.0847955+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Kestrel:Certificates:Development:Password">
+      <Value>mongodb://localhost:6000</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

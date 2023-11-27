@@ -1,0 +1,12 @@
+@Grocery.API_HostAddress = http://localhost:5179
+
+post {{Grocery.API_HostAddress}}/Account/Login
+Accept: application/json
+Content-Type: application/json
+
+{
+  "phone":"00987464",
+  "password":"asdasd"
+}
+
+###
